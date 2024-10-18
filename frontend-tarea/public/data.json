@@ -1,0 +1,70 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "year": 2020,
+        "color": "Red",
+        "price": 12000000,
+        "turbo": "No",
+        "type": "Sedan",
+        "engine": "1.6cc",
+        "cabins": null,
+        "sunroof": null,
+        "popularity": 0
+      },
+      {
+        "id": 2,
+        "brand": "Ford",
+        "year": 2023,
+        "color": "Blue",
+        "price": 22000000,
+        "turbo": "Yes",
+        "type": "Camioneta",
+        "engine": "3.0cc",
+        "cabins": 2,
+        "sunroof": null,
+        "popularity": 0
+      },
+      {
+        "id": 3,
+        "brand": "Chevrolet",
+        "year": 2018,
+        "color": "Black",
+        "price": 17000000,
+        "turbo": "No",
+        "type": "SUV",
+        "engine": "2.2cc",
+        "cabins": null,
+        "sunroof": "Yes",
+        "popularity": 0
+      },
+      {
+        "id": 4,
+        "brand": "Nissan",
+        "year": 2016,
+        "color": "White",
+        "price": 14000000,
+        "turbo": "Yes",
+        "type": "Sedan",
+        "engine": "2.0cc",
+        "cabins": null,
+        "sunroof": null,
+        "popularity": 0
+      },
+      {
+        "id": 5,
+        "brand": "Hyundai",
+        "year": 2019,
+        "color": "Gray",
+        "price": 25000000,
+        "turbo": "No",
+        "type": "Camioneta",
+        "engine": "4.0cc",
+        "cabins": 1,
+        "sunroof": null,
+        "popularity": 0
+      }
+    ]
+  }
+  
